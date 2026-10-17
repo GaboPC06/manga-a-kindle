@@ -2,7 +2,7 @@
 
 Convierte capítulos de manga (CBZ, ZIP, PDF o imágenes) en archivos listos para tu Kindle, **directamente en el navegador**. No se instala nada y tus archivos nunca salen de tu ordenador.
 
-**👉 Úsalo aquí:** `https://TU-USUARIO.github.io/manga-a-kindle/`
+**👉 Úsalo aquí:** gabopc06
 *(o descarga `index.html` y ábrelo con doble clic; funciona sin internet)*
 
 ![Captura](captura.png)
